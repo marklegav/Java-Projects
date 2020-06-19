@@ -1,0 +1,2 @@
+TransID;TaskID;TaskDescription;TaskAssignDuration;TaskCostPerHour;TaskCategory;ExecutionFinishDate;ExecutionDelay (hours);ExecutionBriefDescription;FreelancerID;FreelancerName;FreelancerExpertise;FreelancerEMail;FreelancerNIF;FreelancerBanckAccout;FreelancerAddress;FreeLancerCountry
+101;1;Web Development;48;20;Software Development;24/01/2020;1;High Quality Work;JW1;John Wayne;Junior;jw@gmail.com;921654987;US120010001234567891;Street 92, 90, New York;USA

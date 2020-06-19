@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:1182115" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55e660a9-1a17-46f6-9ed0-8edc378c3c02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PaymentsManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PaymentsManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emailPowd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailPowd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ipp/isep/dei/esoft/pot/ui/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ipp/isep/dei/esoft/pot/ui/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cpGDjqb1ysHC4mjE2QVowAOHlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pt.ipp.isep.dei.esoft.pot.controller" />
+      <recent name="pt.ipp.isep.dei.esoft.pot.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.ipp.isep.dei.esoft.pot.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GITHUB\UML\lapr2-2020-g060\PaymentsManagement\src\main\java\pt\ipp\isep" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipp.isep.dei.esoft.pot.ui.main.Main" />
+      <module name="PaymentsManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipp.isep.dei.esoft.pot.ui.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.ui.MainApp" />
+      <module name="PaymentsManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistarOrganizacaoControllerTest.testNovaOrganizacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaymentsManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipp.isep.dei.esoft.pot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipp.isep.dei.esoft.pot.controller" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipp.isep.dei.esoft.pot.controller.RegistarOrganizacaoControllerTest" />
+      <option name="METHOD_NAME" value="testNovaOrganizacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistarOrganizacaoControllerTest.testRegisterOrganization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaymentsManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipp.isep.dei.esoft.pot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipp.isep.dei.esoft.pot.controller" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipp.isep.dei.esoft.pot.controller.RegistarOrganizacaoControllerTest" />
+      <option name="METHOD_NAME" value="testRegisterOrganization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterOrganisationTest.testRegistaOrganizacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaymentsManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipp.isep.dei.esoft.pot.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipp.isep.dei.esoft.pot.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipp.isep.dei.esoft.pot.model.RegisterOrganisationTest" />
+      <option name="METHOD_NAME" value="testRegistaOrganizacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RegistarOrganizacaoControllerTest.testRegisterOrganization" />
+        <item itemvalue="JUnit.RegistarOrganizacaoControllerTest.testNovaOrganizacao" />
+        <item itemvalue="JUnit.RegisterOrganisationTest.testRegistaOrganizacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e660a9-1a17-46f6-9ed0-8edc378c3c02" name="Default Changelist" comment="" />
+      <created>1591218003815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591218003815</updated>
+      <workItem from="1591218019871" duration="476000" />
+      <workItem from="1591218529019" duration="346000" />
+      <workItem from="1591218904139" duration="88000" />
+      <workItem from="1591219019228" duration="863000" />
+      <workItem from="1591269054985" duration="868000" />
+      <workItem from="1591287470362" duration="1363000" />
+      <workItem from="1591462063421" duration="3082000" />
+      <workItem from="1591720826335" duration="1371000" />
+      <workItem from="1591836270971" duration="2991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591464897083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591464897083" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591284068208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1591284068208" />
+    <state x="445" y="210" width="475" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591218190921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="210" width="475" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591218190921" />
+    <state x="392" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591721088351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591218167574" />
+    <state x="392" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1591721088351" />
+    <state x="442" y="96" key="FileChooserDialogImpl" timestamp="1591219284941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="442" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591219284941" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1591871347434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591871347434" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1591871347434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223585" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591871347434" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1591871347434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223585" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591871347434" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1591871347434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591871347434" />
+    <state width="1237" height="209" key="GridCell.Tab.1.bottom" timestamp="1591871347435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591871347435" />
+    <state width="1237" height="209" key="GridCell.Tab.1.center" timestamp="1591871347435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591871347435" />
+    <state width="1237" height="209" key="GridCell.Tab.1.left" timestamp="1591871347435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591871347435" />
+    <state width="1237" height="209" key="GridCell.Tab.1.right" timestamp="1591871347435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591837223586" />
+    <state width="1237" height="209" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591871347435" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1591720879426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1591720879426" />
+    <state x="61" y="153" width="1095" height="495" key="dock-window-1" timestamp="1591284068208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="61" y="153" width="1095" height="495" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1591284068208" />
+    <state x="164" y="98" key="refactoring.ChangeSignatureDialog" timestamp="1591462229074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="164" y="98" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1591462229074" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/ui/OrganizationConfirmUI.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/ui/OrganizationConfirmUI.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/ui/OrganizationAlertUI.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

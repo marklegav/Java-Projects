@@ -1,0 +1,202 @@
+@font-face {
+  font-family: 'GT America Extended Medium';
+  src: url('GTAmerica-ExtendedMedium.ttf');
+}
+
+@font-face {
+  font-family: 'GT America Extended';
+  src: url('GTAmerica-ExtendedRegular.ttf');
+}
+
+@font-face {
+  font-family: 'GT America Extended Black';
+  src: url('GTAmerica-ExtendedBlack.ttf');
+}
+
+.button:hover {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-background-color: #000000;
+  -fx-font-size: 16;
+}
+
+.button {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 16;
+  -fx-background-color: #ffb50f;
+}
+
+#menu {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 18;
+}
+
+#logout {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 14;
+  -fx-background-color: transparent;
+}
+
+#logout:hover {
+  -fx-underline: true;
+}
+
+#subtitle {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 14;
+}
+
+.textInfo {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 12;
+}
+
+.textField {
+  -fx-font-family: "GT America Extended";
+  -fx-font-size: 12;
+}
+
+#warning {
+  -fx-font-family: "GT America Extended";
+  -fx-font-color: blue;
+  -fx-font-size: 12;
+}
+
+#userName {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 14;
+}
+
+#success {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 20;
+}
+
+#success2 {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 20;
+}
+
+.txtDados {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 15;
+}
+
+#welcome {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 22;
+}
+
+#register {
+  -fx-background-color: white;
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 12;
+}
+
+#register:hover {
+  -fx-background-color: white;
+  -fx-underline: true;
+}
+
+#login:hover {
+  -fx-text-fill: white;
+  -fx-background-color:black;
+}
+
+#login {
+  -fx-background-color: white;
+}
+
+#title {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 12;
+}
+
+.txtLista {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 14;
+}
+
+#horse:hover {
+  -fx-background-color: #ffb50f;
+}
+
+.choicebox {
+  -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, white;
+  -fx-mark-color: black;
+  -fx-font-family: "GT America Extended";
+  -fx-font-size: 12;
+}
+
+.choice-box .context-menu { 
+  -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, white;
+  -fx-mark-color: black;
+  -fx-font-family: "GT America Extended";
+  -fx-font-size: 12;
+}
+
+.text-field {
+  -fx-font-family: "GT America Extended";
+  -fx-font-size: 10;
+}
+
+.label {
+  -fx-font-family: "GT America Extended Medium";
+  -fx-font-size: 12;
+}
+
+.t4j {
+  -fx-font-family: "Cooper Black";
+  -fx-font-size: 24;
+}
+
+.underline {
+  -fx-underline: true;
+}
+
+/*
+.table-view .column-header {
+  -fx-background-color: #ffb50f;
+  -fx-text-fill: white;
+}
+
+.table-view .table-cell {
+  -fx-background-color:white,-fx-box-border,-fx-control-inner-background;
+  -fx-text-fill: black;
+  -fx-font-family: "GT America Extended";
+}
+
+.table-row-cell:selected {
+  -fx-background-color: #86cedd;
+  -fx-table-cell-border-color: transparent;
+}
+
+.table-view:focused {
+  -fx-background-color:white,-fx-box-border,-fx-control-inner-background;
+  /*-fx-background-insets: -1.4, 0, 1;
+  /*-fx-background-radius: 1.4, 0, 0;*/
+  /*....*/
+  /* -fx-padding: 1;  */
+
+.over:hover {
+  -fx-background-color: #000000;
+}
+
+.subtitle {
+  -fx-font-size: 16;
+}
+
+.data0.chart-bar {
+  -fx-background-color: #00a88f;
+}
+.data1.chart-bar {
+  -fx-background-color: #00a88f;
+}
+.data2.chart-bar {
+  -fx-background-color: #00a88f;
+}
+.data3.chart-bar {
+  -fx-background-color: #00a88f;
+}
+.data4.chart-bar {
+  -fx-background-color: #00a88f;
+}
